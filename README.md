@@ -1,6 +1,6 @@
 # VoltSage Desk - User Documentation
 
-**Version 1.0.1**
+**Version 1.0.2**
 
 Welcome to VoltSage Desk - Your intelligent battery power management and smart home automation solution for Windows, macOS, and Linux.
 
@@ -76,7 +76,7 @@ VoltSage Desk is a smart battery management and smart home automation applicatio
 ### Windows
 
 1. **Download** the installer from [GitHub Releases](https://github.com/anandnic/voltsage-desk-release/releases)
-   - File: `VoltSage-Desk-Setup-1.0.1.exe`
+   - File: `VoltSage-Desk-Setup-1.0.2.exe`
 
 2. **Run** the installer
    - Double-click the downloaded `.exe` file
@@ -91,7 +91,7 @@ VoltSage Desk is a smart battery management and smart home automation applicatio
 ### macOS
 
 1. **Download** the installer from [GitHub Releases](https://github.com/anandnic/voltsage-desk-release/releases)
-   - File: `VoltSage-Desk-1.0.1.dmg`
+   - File: `VoltSage-Desk-1.0.2.dmg`
 
 2. **Open** the DMG file
    - Double-click the downloaded `.dmg` file
@@ -107,16 +107,16 @@ VoltSage Desk is a smart battery management and smart home automation applicatio
 ### Linux
 
 1. **Download** the AppImage from [GitHub Releases](https://github.com/anandnic/voltsage-desk-release/releases)
-   - File: `VoltSage-Desk-1.0.1.AppImage`
+   - File: `VoltSage-Desk-1.0.2.AppImage`
 
 2. **Make executable**
    ```bash
-   chmod +x VoltSage-Desk-1.0.1.AppImage
+   chmod +x VoltSage-Desk-1.0.2.AppImage
    ```
 
 3. **Run** the AppImage
    ```bash
-   ./VoltSage-Desk-1.0.1.AppImage
+   ./VoltSage-Desk-1.0.2.AppImage
    ```
 
 4. **Optional**: Integrate with system
@@ -492,7 +492,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Version History
 
-### Version 1.0.1 (Current)
+### Version 1.0.2 (Current)
+- Bug fixes and improvements
+
+### Version 1.0.1
 - Initial public release
 - Cross-platform support (Windows, macOS, Linux)
 - Google Home integration
@@ -511,5 +514,5 @@ Power, Intelligently Managed. 🔋⚡
 
 ---
 
-*Last Updated: 2025*  
+*Last Updated: 2nd December 2025*  
 *For the latest version, visit: [https://github.com/anandnic/voltsage-desk-release/releases](https://github.com/anandnic/voltsage-desk-release/releases)*
